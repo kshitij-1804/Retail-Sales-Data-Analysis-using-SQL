@@ -186,6 +186,58 @@ SELECT
 FROM hourly_sale
 GROUP BY shift
 ```
+## Retail Sales Insights & Recommendations
+
+1. Customer Insights
+Total Unique Customers: 155
+Category-wise Unique Customers:
+Beauty: 141
+Clothing: 149
+Electronics: 144
+Average Age for Beauty Category: 40 years
+Gender-based Transactions:
+Beauty: Male (281), Female (330)
+Clothing: Male (351), Female (347)
+Electronics: Male (342), Female (335)
+🔹 Key Insights:
+
+A relatively even distribution of male and female buyers across all categories.
+Clothing and Electronics have a balanced customer base, while Beauty is slightly more popular among women.
+The Beauty category attracts older customers (average age: 40), indicating potential marketing opportunities targeting this age group.
+2. Sales Trends
+Best-Selling Months:
+July 2022 – Average Sales: $521
+February 2023 – Average Sales: $535
+🔹 Key Insights:
+
+The best sales months indicate seasonal demand—potentially linked to summer promotions (July) and early-year discounts (February).
+The business should leverage these peak months by running targeted campaigns or stocking up on high-demand products.
+3. Sales Performance by Shift
+Morning Shift: 4,023 orders
+Afternoon Shift: 377 orders
+Evening Shift: 1,072 orders
+🔹 Key Insights:
+
+The morning shift dominates with the highest order volume, followed by the evening shift.
+The afternoon shift has significantly lower sales, indicating a slow period for retail activity.
+
+##Recommendations
+Optimize Marketing & Inventory for Peak Sales Months
+
+Offer discounts and promotional campaigns in July and February to capitalize on high sales periods.
+Ensure adequate stock availability for high-demand categories (Clothing, Beauty, Electronics).
+Enhance Afternoon Sales
+
+Introduce limited-time offers or happy-hour discounts between 12 PM – 5 PM to boost sales.
+Run email or app-based notifications targeting customers who usually shop in the morning/evening to encourage afternoon purchases.
+Targeted Customer Engagement
+
+Since Beauty has an older customer base, consider age-specific marketing such as anti-aging or premium skincare promotions.
+Leverage gender-based trends: Beauty products can be marketed more towards women, while Clothing and Electronics appeal equally to both genders.
+Customer Loyalty & Retention Strategies
+
+Create a loyalty program for high-spending customers, rewarding repeat buyers in Beauty, Clothing, and Electronics.
+Implement personalized recommendations based on past purchases to increase customer retention.
 
 ## Findings
 
